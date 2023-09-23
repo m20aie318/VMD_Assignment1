@@ -12,8 +12,8 @@ Python Server using Flask with basic Login and Registration Pages.
 `docker run -p 5001:5001 vm.assignment:v1`
 
 ### Notes:
-Login Page: http://localhost:5001/login
-Registration Page: http://localhost:5001/login
+- Login Page: http://localhost:5001/login
+- Registration Page: http://localhost:5001/login
 
 
 ### UI Images:
