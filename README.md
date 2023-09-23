@@ -13,7 +13,7 @@ Python Server using Flask with basic Login and Registration Pages.
 
 ### Notes:
 - Login Page: http://localhost:5001/login
-- Registration Page: http://localhost:5001/login
+- Registration Page: http://localhost:5001/registration
 
 
 ### UI Images:
